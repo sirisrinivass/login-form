@@ -1,0 +1,33 @@
+body
+
+{
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+    
+}
+
+ login form
+{
+border: 1px;
+width: 10%;
+
+text-align: left;
+margin left: 100% ;
+}
+
+.log  label
+{
+    color: crimson;
+}
+
+.log input
+{
+color: rgb(127, 160, 160);
+border-color: deepskyblue;
+}
+
+.log button
+{
+    color: darkred;
+}
